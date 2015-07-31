@@ -7,4 +7,4 @@ One of the oldest and most studied topics in [computer vision](https://en.wikipe
 3. Expansion of project scope (detect characters/words in real images)
 4. Combination of previous parts for a working product that can accurately label and detect characters
 
-Please see my iPython notebook for a detailed view of my work so far. A complete program will follow.
+Please see my iPython notebook for a detailed view of my work so far. A complete system with better UI will follow.
