@@ -6,6 +6,7 @@ One of the oldest and most studied topics in [computer vision](https://en.wikipe
     - Gaussian Naive Bayes, Bernoulli Naive Bayes, KNN and Random Forest.
     - Images reduced to 50x50 squares, grayscaled
     - Base accuracy between 20% and 30%
+    
 2. Modifications in approach (pixel value flattening, change in input dimensions, feature selection, label modification)
     - Initial idea: flattening by rounding, attempt at normalizing. ~45% Accuracy at best.
     - With data nudging, performance increases to max ~70% (KNN)
